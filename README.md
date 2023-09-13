@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring Boot<br>🤝 I’m looking for help with Java projects<br>🌱 I’m currently learning Spring Security ,Spring Batch , MySQL , Hibernate <br>💬 Ask me about java web development and java <br>⚡ I am fat
+🔭 I’m currently working on Spring Boot<br>🤝 I’m looking for help with Java projects<br>🌱 I’m currently learning Spring Security ,Spring Batch , MySQL , Hibernate <br>💬 Ask me about java web development and java <br>⚡ I am devloper also fat
 
 
 ## 🌐 Socials:
